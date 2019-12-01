@@ -84,7 +84,7 @@ body {
                             <div class="h6 text-muted">Following</div>
                             <div class="h5">6758</div>
                         </li>
-                        <li class="list-group-item">Vestibulum at eros</li>
+                        <li class="list-group-item">Logout</li>
                     </ul>
                 </div>
             </div>
