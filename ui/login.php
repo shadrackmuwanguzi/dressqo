@@ -33,15 +33,14 @@
 		<div class="container-login100">
 			<div class="wrap-login100 p-b-30"> 
 			 
-				<form class="login100-form validate-form"> 
+				<form class="login100-form validate-form" method="POST" action="../controllers/loginController.php" > 
 					<span class="login100-form-title p-b-40">
 						DRESSQO
 					</span>
 
-				
-
+		
 					<div class="wrap-input100 validate-input m-b-16" data-validate="Please enter email: ex@abc.xyz">
-						<input class="input100" type="text" name="email" placeholder="Username or Email">
+						<input class="input100" type="text" name="username" placeholder="Username or Email">
 						<span class="focus-input100"></span> 
 					</div>
 
@@ -49,7 +48,7 @@
 						<span class="btn-show-pass">
 							<i class="fa fa fa-eye"></i>
 						</span>
-						<input class="input100" type="password" name="pass" placeholder="Password">
+						<input class="input100" type="password" name="password" placeholder="Password">
 						<span class="focus-input100"></span>
 					</div>
 
