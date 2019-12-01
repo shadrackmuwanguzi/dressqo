@@ -1,6 +1,6 @@
 <?php 
 // Include connection file
-include 'connection.php';
+include("dbconfig.php");
 
 //signup or register code 
 

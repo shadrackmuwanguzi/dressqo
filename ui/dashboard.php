@@ -74,7 +74,7 @@ body {
                         <div class="h7">Developer of web applications, JavaScript, PHP, Java, Python, Ruby, Java, Node.js,
                             etc.
                         </div>
-                    </div>
+                    </div> 
                     <ul class="list-group list-group-flush">
                         <li class="list-group-item">
                             <div class="h6 text-muted">Followers</div>
