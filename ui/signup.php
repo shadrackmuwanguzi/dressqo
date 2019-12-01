@@ -35,7 +35,7 @@
 			 
 				<form class="login100-form validate-form" action="../controllers/registerController.php" method="POST"> 
 					<span class="login100-form-title p-b-40"> 
-						DRESSQO
+						DRESSQO 
 					</span> 
 
 				
