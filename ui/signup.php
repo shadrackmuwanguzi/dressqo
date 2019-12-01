@@ -33,7 +33,7 @@
 		<div class="container-login100">
 			<div class="wrap-login100 p-b-30"> 
 			 
-				<form class="login100-form validate-form" action="../controllers/register.php" method="POST"> 
+				<form class="login100-form validate-form" action="../controllers/registerController.php" method="POST"> 
 					<span class="login100-form-title p-b-40"> 
 						DRESSQO
 					</span> 

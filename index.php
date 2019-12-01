@@ -1,8 +1,9 @@
-<?php header("Location: ui/login.php"); ?>
+<?php header("Location: ui/login.php"); 
+
+?>
 
 
-<?php
-
+<<<<<<< HEAD
 
 
 
@@ -11,3 +12,5 @@
 
 
 ?> 
+=======
+>>>>>>> 0e86ef35bfaf48dea621af7c5959dd478c282c2f
