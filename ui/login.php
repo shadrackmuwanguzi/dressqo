@@ -40,15 +40,15 @@
 
 		
 					<div class="wrap-input100 validate-input m-b-16" data-validate="Please enter email: ex@abc.xyz">
-						<input class="input100" type="text" name="username" placeholder="Username or Email">
+						<input class="input100" type="text" name="username" placeholder="Username or Email" autocomplete="off">
 						<span class="focus-input100"></span> 
 					</div>
 
-					<div class="wrap-input100 validate-input m-b-20" data-validate = "Please enter password">
+					<div class="wrap-input100 validate-input m-b-20" data-validate = "Please enter password" autocomplete="off">
 						<span class="btn-show-pass">
 							<i class="fa fa fa-eye"></i>
 						</span>
-						<input class="input100" type="password" name="password" placeholder="Password">
+						<input class="input100" type="password" name="password" placeholder="Password" autocomplete="false">
 						<span class="focus-input100"></span>
 					</div>
 
