@@ -40,8 +40,13 @@
 
 		
 					<div class="wrap-input100 validate-input m-b-16" data-validate="Please enter email: ex@abc.xyz">
+<<<<<<< HEAD
 						<input class="input100" type="text" name="username" placeholder="Username or Email" autocomplete="off">
 						<span class="focus-input100"></span> 
+=======
+						<input class="input100" type="text" name="username" placeholder="Username or Email">
+						<span class="focus-input100"></span>  
+>>>>>>> 8f782fe2bae1a87c7b093d2a3c38fc36caed1a70
 					</div>
 
 					<div class="wrap-input100 validate-input m-b-20" data-validate = "Please enter password" autocomplete="off">
